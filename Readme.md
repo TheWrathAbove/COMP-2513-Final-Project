@@ -12,7 +12,7 @@ Listening on localhost:8080"
 Select the second Terminal and type "cd app" and hit enter
 Then type "npm install" and hit enter
 After the packages have finished installing type "npm start" and hit enter
-Assuming everything worked properly, in the terminal 
+Assuming everything worked properly, in the terminal you should see:
 "Local: 		http://localhost:3000        
   On Your Network:  http://192.168.56.1:3000"
 And it should automatically open up a webpage to "http://localhost:3000"    
